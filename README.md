@@ -1,6 +1,6 @@
-# BEM VINDO AO MEU TUTORIAL :man_cook:
+# BEM VINDO AS RECEITAS MAL FEITAS :man_cook:
 
 ### Receitas
 
-- Strogonoff de pica
+- Strogonoff de frango bem mal feito
 
